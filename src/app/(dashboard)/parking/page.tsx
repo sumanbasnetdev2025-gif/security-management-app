@@ -260,7 +260,7 @@ export default function ParkingPage() {
                               <span title="Overstay">
                                 <AlertTriangle className="w-3.5 h-3.5 text-orange-500" />
                               </span>
-                            )}{" "}
+                            )}
                           </div>
                         </td>
                         <td>
